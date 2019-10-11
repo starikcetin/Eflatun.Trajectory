@@ -1,0 +1,9 @@
+{
+    "author": "starikcetin <cetinsamedtarik@gmail.com> (https://github.com/starikcetin)",
+    "dependencies": {},
+    "description": "Trajectory calculation and visualizaiton utilities for Unity.",
+    "displayName": "Eflatun.Trajectory",
+    "license": "MIT",
+    "name": "com.eflatun.trajectory",
+    "version": "0.0.1"
+}
